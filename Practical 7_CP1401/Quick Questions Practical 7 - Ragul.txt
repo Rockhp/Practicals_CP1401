@@ -1,0 +1,6 @@
+1.Where should global constants be placed in a program? - All caps
+2.What are two reasons why you should not use global variables? - One reason is that they make it harder to reason about how your program works, since anything in your code could change that variable. Another reason is that they make it more difficult to test your code, since each function now depends not only on the arguments you pass it but also one or more global variables.
+3.When you have two variables with the same name but in different functions, these said to have different ____? - Argument
+4.What do you call the red dot in the margin in PyCharm that pauses the program running when using the debugger? - Breakpoints
+5.Briefly explain what would be wrong if you had a line of code like SOME_VALUE += 1 (assume that SOME_VALUE is actually a meaningful name)  - SOME_VALUE is a constant. It will cause an error if a constant has an arithmetic expression added with it
+6.What is the single most important design principle for designing functions? Hierarchy

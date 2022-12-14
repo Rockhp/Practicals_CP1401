@@ -1,0 +1,6 @@
+1. Determine a subject grade based on a given total score - determine_grade_based_on_score
+2. Convert currency from USD to AUD - convert_usd_to_aud_currency
+3. Print a report - print_report
+4. Calculate the average of a list of numbers - calculate_average5.
+5. Determine if a number is even - determine_even_number
+6. Get a user's salary, making sure that it is not negative - users_salary

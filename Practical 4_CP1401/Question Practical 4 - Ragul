@@ -1,0 +1,32 @@
+What is the PyCharm keyboard shortcut for commenting (out/in) a selection of code? - Ctrl+/
+What are the two kinds of loops available in Python? - while loop and for loop
+What is a "sentinel" (when dealing with loops)? - A sentinel value is a special value used to terminate a loop when reading data.
+What is wrong with this variable name: nothingWrong - should be nothing_wrong so easier to read.
+What are augmented assignment operators? - Augmented Assignment Operators are used to replace those statements where binary operator takes two operands says var1 and var2 and then assigns a final result back to one of operands
+
+Loop outputs
+#1. 0 1 2 3 4 5
+#2. 33 34 35 36 37 38
+#3. 17 16 15 14 13 12
+#4. 1 0 1 0 1 0 1 0 1 0
+#5. 100>64>36>16>4>
+
+Range values
+#1. range(6)
+#2. range(1, 14, 4)
+#3. range(3, 0, -1)
+#4. range(7, -6, -3)
+
+Patterns
+Error-checking user input, looping until they enter a valid response - while loop
+A menu with several options including 'quit' - while loop
+Displaying all of the months in a year - for loop
+Printing 5 random numbers - for loop
+Printing n random numbers, where n is a user input - while loop
+
+Logic Exercise
+1
+As every box is incorrectly labeled
+First take out the ball from the bag labeled BW. If The ball comes out to be black, it implies that there are 2 black balls in that bag.
+And then the bag labeled WW can have either BW or WW but as all are incorrectly labeled, it implies it has BW
+And the third bag contains 2 WW balls

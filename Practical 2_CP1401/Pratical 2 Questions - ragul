@@ -1,0 +1,9 @@
+Write two variable names that would be valid and well-named - discount_price original_price
+Write two variable names that would be valid but not well-named - discountprice originalprice
+Write two variable names that would not be valid - 1number 2number
+What is the naming convention for variables in Python? - variable must be in lowercase with a under score in between the words
+What is a constant? Give an example of when you would use one - Constant is a variable that cannot be changed. We use constant when we're sure of the value.
+What is the naming convention for constants? - Constant must be in all caps.
+
+Logic exercises: 3.
+Explanation: It's 3 as it does not matter what colour we get in the first 2 tries as the 3rd try will definitely match either one of the socks from the first 2 tries.

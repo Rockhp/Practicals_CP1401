@@ -1,0 +1,19 @@
+1. What is the "not equal to" operator in Python? - !=
+2. What is the "less than or equal to" operator in Python? - <=
+3. b + c * a > a  b - True
+4. True or (c  b - a % b > c ** c) - True
+5. not True and False or True - True
+6. (a * b + c) % 2 == 0 - True
+
+1. Deciding what coffee to make based on a customer's order (flat white, cappuccino, piccolo, long black, espresso...) - if, if, if
+2. Deciding whether to toast a customer's sandwich - if-else
+3. Recording what foods a customer is allergic to (ask for each allergen) - if, if, if
+4. Calculating tax based on income - could be one of several tax brackets - if-elif no else
+5. Handling the "play again?" question at the end of a computer game level - if-else
+6. Determining if a frog is poisonous based on its colour - if-elif-else
+7. Determining if a frog is poisonous based on its colour, tongue length and number of eyes - if-elif-else
+
+Logic Exercise
+When asked her 3 children's ages, Mrs. Muddled said that Alice is the youngest unless Bill is, and that if Carl isn't the youngest then Alice is the oldest.
+Who is the oldest and who is the youngest?
+Answer = Alice is the oldest, Carl is the middle child and Bill is the youngest.
